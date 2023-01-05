@@ -1,7 +1,392 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+ocal Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
 local Window = Library.CreateLib("olidragon210 hub ", "Ocean")
 
+-- Code
 
+local Code = Window:NewTab ("Code")
+local CodeSection = Code:NewSection("Code")
+
+CodeSection:NewButton("CYBERPUNK 🔊", "un essai", function()
+    setclipboard("6911766512")
+toclipboard("6911766512")
+end)
+
+CodeSection:NewButton("RIP/read inside🖤", "...", function()
+    setclipboard("6658650660")
+toclipboard("6658650660")
+end)
+
+CodeSection:NewButton("SKZCRINGE/isvvc💀", "un essai", function()
+    setclipboard("6819593773")
+toclipboard("6819593773")
+end)
+
+CodeSection:NewButton("TROJAN/puma😈", "un essai", function()
+    setclipboard("6923867528")
+toclipboard("6923867528")
+end)
+
+CodeSection:NewButton("e girl 👾", "...", function()
+    setclipboard("6868493025")
+toclipboard("6868493025")
+end)
+
+CodeSection:NewButton("USRAP/Wanna Smoke", "...", function()
+    setclipboard("6772846771")
+toclipboard("6772846771")
+end)
+
+CodeSection:NewButton("Sad Nigga Hour 🙈", "...", function()
+    setclipboard("6806140478")
+toclipboard("6806140478")
+end)
+
+CodeSection:NewButton("INTRO🎮", "...", function()
+    setclipboard("6817682704")
+toclipboard("6817682704")
+end)
+
+CodeSection:NewButton("Phonk bass", "...", function()
+    setclipboard("1050510419")
+toclipboard("1050510419")
+end)
+
+CodeSection:NewButton("MONSTER SCREAM👹", "un essai", function()
+    setclipboard("9059284808")
+toclipboard("9059284808")
+end)
+
+CodeSection:NewButton("windows XP startup💻", "un essai", function()
+    setclipboard("9094546337")
+toclipboard("9094546337")
+end)
+
+CodeSection:NewButton("Le billet 💵", "...", function()
+    setclipboard("6950593634")
+toclipboard("6950593634")
+end)
+
+CodeSection:NewButton("Still here", "un essai", function()
+    setclipboard("7006487793")
+toclipboard("7006487793")
+end)
+
+CodeSection:NewButton("kroxxroad", "...", function()
+    setclipboard("6893776529")
+toclipboard("6893776529")
+end)
+
+CodeSection:NewButton("inappropriate 🚫", "...", function()
+    setclipboard("6555905311")
+toclipboard("6555905311")
+end)
+
+CodeSection:NewButton("Jumex loner🌆", "...", function()
+    setclipboard("6847929757")
+toclipboard("6847929757")
+end)
+
+CodeSection:NewButton("Yokaivv", "...", function()
+    setclipboard("6909980547")
+toclipboard("6909980547")
+end)
+
+CodeSection:NewButton("Wanna Smoke/USRAP 🤬", "...", function()
+    setclipboard("6772846771")
+toclipboard("6772846771")
+end)
+
+CodeSection:NewButton("phonk", "...", function()
+    setclipboard("7987319238")
+toclipboard("7987319238")
+end)
+
+CodeSection:NewButton("Bag de griff", "...", function()
+    setclipboard("6841087956")
+toclipboard("6841087956")
+end)
+
+CodeSection:NewButton("Loud/earrape", "...", function()
+    setclipboard("6846153394")
+toclipboard("6846153394")
+end)
+
+CodeSection:NewButton("Join Z loud", "...", function()
+    setclipboard("6969006426")
+toclipboard("6969006426")
+end)
+
+CodeSection:NewButton("aaaaa zo", "...", function()
+    setclipboard("8222782975")
+toclipboard("8222782975")
+end)
+
+CodeSection:NewButton("Electric City", "...", function()
+    setclipboard("1838659275")
+toclipboard("1838659275")
+end)
+
+CodeSection:NewButton("Harx is fury😡", "...", function()
+    setclipboard("6909980547")
+toclipboard("6909980547")
+end)
+
+CodeSection:NewButton("Shifting 🔊👿", "...", function()
+    setclipboard("6943232352")
+toclipboard("6943232352")
+end)
+
+CodeSection:NewButton("Black and yellow🐝", "...", function()
+    setclipboard("139235100")
+toclipboard("139235100")
+end)
+
+CodeSection:NewButton("frosting of my Heart🤍", "...", function()
+    setclipboard("8222790838")
+toclipboard("8222790838")
+end)
+
+CodeSection:NewButton("Jumpstyle", "...", function()
+    setclipboard("1839246711")
+toclipboard("1839246711")
+end)
+
+CodeSection:NewButton("Hello Bozo🤡", "...", function()
+    setclipboard("7516826765")
+toclipboard("7516826765")
+end)
+
+CodeSection:NewButton("Russian", "...", function()
+    setclipboard("9071698640")
+toclipboard("9071698640")
+end)
+CodeSection:NewButton("TACTICAL NUKE☢️", "...", function()
+    setclipboard("1312880397")
+toclipboard("1312880397")
+end)
+
+CodeSection:NewButton("MORGENSHTERN HAWAI🌺", "...", function()
+    setclipboard("1837255793")
+toclipboard("1837255793")
+end)
+
+CodeSection:NewButton("SAD VIOLON🎻", "...", function()
+    setclipboard("135308045")
+toclipboard("135308045")
+end)
+
+CodeSection:NewButton("日本の崇拝", "...", function()
+    setclipboard("435240116")
+toclipboard("435240116")
+end)
+
+CodeSection:NewButton("WASTED GTA🪦", "...", function()
+    setclipboard("204074025")
+toclipboard("204074025")
+end)
+
+CodeSection:NewButton("JOJO ATTACK", "...", function()
+    setclipboard("1571597070")
+toclipboard("1571597070")
+end)
+
+CodeSection:NewButton("HEAVY METAL🔊🤬👿", "...", function()
+    setclipboard("1837278308")
+toclipboard("1837278308")
+end)
+
+CodeSection:NewButton("RASTAMAN☀️", "...", function()
+    setclipboard("1839144981")
+toclipboard("1839144981")
+end)
+
+CodeSection:NewButton("Cornemuse pour niquer vos oreilles🎶", "...", function()
+    setclipboard("1840225614")
+toclipboard("1840225614")
+end)
+
+CodeSection:NewButton("Hymne des USA", "...", function()
+    setclipboard("1840297374")
+toclipboard("1840297374")
+end)
+
+CodeSection:NewButton("AAAAAAAAA", "...", function()
+    setclipboard("2006547142")
+toclipboard("2006547142")
+end)
+
+CodeSection:NewButton("y'a des noirs ici🐒", "...", function()
+    setclipboard("2473639958")
+toclipboard("2473639958")
+end)
+
+CodeSection:NewButton("WAAAAW KAWAI", "...", function()
+    setclipboard("2976402600")
+toclipboard("2976402600")
+end)
+
+CodeSection:NewButton("BRUH", "...", function()
+    setclipboard("4572116031")
+toclipboard("4572116031")
+end)
+
+CodeSection:NewButton("CHIASSE💩", "...", function()
+    setclipboard("4809574295")
+toclipboard("4809574295")
+end)
+
+CodeSection:NewButton("FNAF", "...", function()
+    setclipboard("5216480240")
+toclipboard("5216480240")
+end)
+
+CodeSection:NewButton("SIREN HEAD", "...", function()
+    setclipboard("5681392704")
+toclipboard("5681392704")
+end)
+
+CodeSection:NewButton("BLOOD POP", "...", function()
+    setclipboard("6783714255")
+toclipboard("6783714255")
+end)
+
+CodeSection:NewButton("Rire bizzare😂", "...", function()
+    setclipboard("9094639541")
+toclipboard("9094639541")
+end)
+
+CodeSection:NewButton("Rose By Lukrembo🌹", "...", function()
+    setclipboard("9123682910")
+toclipboard("9123682910")
+end)
+
+CodeSection:NewButton("prxjex", "...", function()
+    setclipboard("6943232352")
+toclipboard("6943232352")
+end)
+
+CodeSection:NewButton("clear", "...", function()
+    setclipboard("6808292148")
+toclipboard("6808292148")
+end)
+
+CodeSection:NewButton("get of me", "...", function()
+    setclipboard("6817682704")
+toclipboard("6817682704")
+end)
+
+CodeSection:NewButton("deep and dirty", "...", function()
+    setclipboard("1836785943")
+toclipboard("1836785943")
+end)
+
+CodeSection:NewButton("dead inside", "...", function()
+    setclipboard("6658650660")
+toclipboard("6658650660")
+end)
+
+CodeSection:NewButton("phonk bresil", "...", function()
+    setclipboard("6896624865")
+toclipboard("6896624865")
+end)
+
+CodeSection:NewButton("Printer 29 argh", "...", function()
+	setclipboard("6435679021")
+toclipboard("6435679021")
+end)
+
+CodeSection:NewButton("Give me somes skittles 🤪🌈", "...", function()
+	setclipboard("4239002503")
+toclipboard("4239002503")
+end)
+
+CodeSection:NewButton("car bump", "...", function()
+	setclipboard("7702262254")
+toclipboard("7702262254")
+end)
+
+CodeSection:NewButton("oof", "...", function()
+	setclipboard("6834218705")
+toclipboard("6834218705")
+end)
+
+CodeSection:NewButton("MIDNIGHT", "...", function()
+	setclipboard("1840038982")
+toclipboard("1840038982")
+end)
+
+CodeSection:NewButton("Spy/Nox Song", "...", function()
+	setclipboard("6674211522")
+toclipboard("6674211522")
+end)
+
+CodeSection:NewButton("horror clip", "...", function()
+	setclipboard("8352728971")
+toclipboard("8352u28971")
+end)
+
+CodeSection:NewButton("escape", "...", function()
+	setclipboard("8420609252")
+toclipboard("8420609252")
+end)
+
+CodeSection:NewButton("short loop", "...", function()
+	setclipboard("3238478423")
+toclipboard("3238478423")
+end)
+
+CodeSection:NewButton("noise pour te faire saigner les oreilles", "...", function()
+	setclipboard("7713890963")
+toclipboard("7713890963")
+end)
+
+CodeSection:NewButton("long loop", "...", function()
+	setclipboard("4760592831")
+toclipboard("4760592831")
+end)
+
+CodeSection:NewButton("On That Time", "...", function()
+	setclipboard("8002015002")
+toclipboard("8002015002")
+end)
+
+CodeSection:NewButton("Weird Chickmonk Noises XDXD", "...", function()
+	setclipboard("930863009")
+toclipboard("930863009")
+end)
+
+CodeSection:NewButton("phonk loop", "...", function()
+	setclipboard("7633589815")
+toclipboard("7633589815")
+end)
+
+CodeSection:NewButton(":(", "...", function()
+	setclipboard("8315630207")
+toclipboard("8315630207")
+end)
+
+CodeSection:NewButton("70546615702365", "...", function()
+	setclipboard("8887387572")
+toclipboard("8887387572")
+end)
+
+CodeSection:NewButton("Thugs Aint Lame", "...", function()
+	setclipboard("2626152169")
+toclipboard("2626152169")
+end)
+
+CodeSection:NewButton("dbeatloop", "...", function()
+	setclipboard("4518898538")
+toclipboard("4518898538")
+end)
+
+CodeSection:NewButton("loop", "...", function()
+	setclipboard("7175701891")
+toclipboard("7175701891")
+end) 
+
+-- Hub
 local Hub = Window:NewTab ("Hub")
 local HubSection = Hub:NewSection("Hub")
 
@@ -17,19 +402,19 @@ HubSection:NewButton("Salmon hub", "boombox hub", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Salmon-B0T/SalmonHub/main/SalmonHub.lua", true))()
 end)
 
-HubSection:NewButton("Orca hub", " multi hub", function()
+HubSection:NewButton("Orca hub", " le Orca hub", function()
     loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/richie0866/orca/master/public/latest.lua"))()
 end)
 
-HubSection:NewButton("astroware hub", " multi hub", function()
+HubSection:NewButton("astroware hub", " le astroware hub", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/4twmRpx3"))()
 end)
 
-HubSection:NewButton("British Hub", " multi hub", function()
+HubSection:NewButton("British Hub", " le British hub", function()
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/YourLocalNzi/Ye/main/BHob6"),true))()
 end)
 
-HubSection:NewButton("Dzigi Hub", " multi hub", function()
+HubSection:NewButton("Dzigi Hub", " le hub de Dzigi", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/qCSy1dPg"))();
 end)
 
@@ -41,7 +426,7 @@ HubSection:NewButton("game hub", " le hub des jeux", function()
     loadstring("\103\97\109\101\46\83\116\97\114\116\101\114\71\117\105\58\83\101\116\67\111\114\101\40\34\83\101\110\100\78\111\116\105\102\105\99\97\116\105\111\110\34\44\32\123\10\32\32\32\32\84\105\116\108\101\32\61\32\34\71\97\109\101\115\32\72\117\98\32\86\53\34\59\10\32\32\32\32\84\101\120\116\32\61\32\34\83\117\98\115\99\114\105\98\101\32\116\111\32\84\97\107\101\32\77\111\100\122\122\34\59\32\45\45\32\119\104\97\116\32\116\104\101\32\116\101\120\116\32\115\97\121\115\32\40\111\102\99\41\10\32\32\32\32\68\117\114\97\116\105\111\110\32\61\32\53\59\10\125\41\10\103\97\109\101\46\83\116\97\114\116\101\114\71\117\105\58\83\101\116\67\111\114\101\40\34\83\101\110\100\78\111\116\105\102\105\99\97\116\105\111\110\34\44\32\123\10\32\32\32\32\84\105\116\108\101\32\61\32\34\67\114\101\100\105\116\115\32\84\111\32\65\100\118\97\110\99\101\70\97\108\108\105\110\103\34\59\10\32\32\32\32\84\101\120\116\32\61\32\34\83\117\98\115\99\114\105\98\101\32\116\111\32\89\101\108\108\111\119\71\114\101\103\80\114\111\103\114\97\109\34\59\32\45\45\32\119\104\97\116\32\116\104\101\32\116\101\120\116\32\115\97\121\115\32\40\111\102\99\41\10\32\32\32\32\68\117\114\97\116\105\111\110\32\61\32\53\59\10\125\41\10\10\108\111\99\97\108\32\107\97\118\111\85\105\32\61\32\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\112\97\115\116\101\98\105\110\46\99\111\109\47\114\97\119\47\118\102\102\49\98\81\57\70\34\41\41\40\41\10\108\111\99\97\108\32\119\105\110\100\111\119\32\61\32\107\97\118\111\85\105\46\67\114\101\97\116\101\76\105\98\40\34\71\97\109\101\115\32\72\85\66\32\86\53\32\83\101\108\101\99\116\111\114\34\44\34\68\97\114\107\84\104\101\109\101\34\41\10\32\10\45\45\45\84\97\98\115\10\32\10\108\111\99\97\108\32\84\97\98\49\32\61\32\119\105\110\100\111\119\58\78\101\119\84\97\98\40\34\83\101\108\101\99\116\34\41\10\108\111\99\97\108\32\84\97\98\49\83\101\99\116\105\111\110\32\61\32\84\97\98\49\58\78\101\119\83\101\99\116\105\111\110\40\34\83\101\108\101\99\116\32\97\32\85\73\34\41\10\10\45\45\45\66\117\116\116\111\110\115\10\32\10\32\84\97\98\49\83\101\99\116\105\111\110\58\78\101\119\66\117\116\116\111\110\40\34\79\108\100\32\85\73\32\76\105\98\114\97\114\121\34\44\34\78\111\32\100\101\115\99\114\105\112\116\105\111\110\34\44\102\117\110\99\116\105\111\110\40\41\10\32\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\84\97\107\101\77\111\100\122\122\47\71\97\109\101\115\45\72\85\66\45\86\53\45\79\116\104\101\114\45\82\101\97\108\47\109\97\105\110\47\71\97\109\101\115\37\50\48\72\85\66\37\50\48\86\53\37\50\48\79\116\104\101\114\37\50\48\82\101\97\108\34\41\41\40\41\10\32\101\110\100\41\10\32\10\32\84\97\98\49\83\101\99\116\105\111\110\58\78\101\119\66\117\116\116\111\110\40\34\78\101\119\32\85\73\32\76\105\98\114\97\114\121\40\115\111\109\101\32\98\117\103\115\41\34\44\34\78\111\32\100\101\115\99\114\105\112\116\105\111\110\34\44\102\117\110\99\116\105\111\110\40\41\10\32\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\84\97\107\101\77\111\100\122\122\47\71\97\109\101\115\45\72\85\66\45\86\53\47\109\97\105\110\47\71\97\109\101\115\37\50\48\72\85\66\37\50\48\86\53\34\41\41\40\41\10\32\101\110\100\41\10")()
 end)
 
-HubSection:NewButton("Mini hub", " multi hub", function()
+HubSection:NewButton("Mini hub", " le mini hub", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MiniNoobie/MINI-HUB-V2/main/FINALLY%20UPDATED%20MINI%20HUB",true))()
 end)
 
@@ -49,7 +434,7 @@ HubSection:NewButton("Nightmare Hub", " r6 animation hub", function()
     loadstring(game:HttpGet(('https://pastefy.ga/lrjtanrp/raw'),true))()
 end)
 
-HubSection:NewButton("Pro Hub", " multi hub", function()
+HubSection:NewButton("Pro Hub", " le hub des pro", function()
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/Kindasua/v.1-beta/main/Fixed%20bugs%20v.1%20beta"), true))()
 end)
 
@@ -69,1533 +454,731 @@ HubSection:NewButton("Bitehub", "Le monde des bites", function()
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/ayoyao3744/Electroware/main/Main%20Electroware%20Hub"), true))()
 end)
 
+HubSection:NewButton("Eclipse Hub", "MM2, Bloxburg, KAT, Breaking point, etc...", function()
+    local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,"https://api.eclipsehub.xyz/auth"c(a and b,"Executor not Supported")a(b({Url=e.."\?\107e\121\61"..d(mainKey),Headers={["User-Agent"]="Eclipse"}}).Body)()
+end)
+
+HubSection:NewButton("Tracer", "ESP tracer", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MichaelScripter/MiniScript/main/Spy%20gui.lua"))()
+end)
+
 -- Key
+
 local Key = Window:NewTab ("Key")
+
 local KeySection = Key:NewSection("Key")
 
 KeySection:NewButton("clé vhub", " la clé de vhub", function()
+
     setclipboard("GoFuckYourselfGetTheKeyInTheirDiscord")
+
 toclipboard("GoFuckYourselfGetTheKeyInTheirDiscord")
+
 end)
 
 KeySection:NewButton(" Copier Clé bitehub", "La clé d'entrée au monde des bites", function()
+
     setclipboard("HoC_K5c_OxS_8Cd")
+
 toclipboard("HoC_K5c_OxS_8Cd")
+
 end)
 
 --TAILLE
+
 local Taille = Window:NewTab("Taille")
+
 local TailleSection = Taille:NewSection("Taille")
 
-
 TailleSection:NewButton("TitanLVL1", "LVL1", function()
+
     local LocalPlayer = game:GetService("Players").LocalPlayer
+
 local Character = LocalPlayer.Character
+
 local Humanoid = Character:FindFirstChildOfClass("Humanoid")
 
 function rm()
-	for i,v in pairs(Character:GetDescendants()) do
-		if v:IsA("BasePart") then
+
+	for i,v in pairs(Character:GetDescendants()) do		if v:IsA("BasePart") then
+
 			if v.Name == "Handle" or v.Name == "Head" then
+
 				if Character.Head:FindFirstChild("OriginalSize") then
+
 					Character.Head.OriginalSize:Destroy()
+
 				end
+
 			else
+
 				for i,cav in pairs(v:GetDescendants()) do
+
 					if cav:IsA("Attachment") then
+
 						if cav:FindFirstChild("OriginalPosition") then
+
 							cav.OriginalPosition:Destroy()  
+
 						end
+
 					end
+
 				end
+
 				v:FindFirstChild("OriginalSize"):Destroy()
+
 				if v:FindFirstChild("AvatarPartScaleType") then
+
 					v:FindFirstChild("AvatarPartScaleType"):Destroy()
+
 				end
+
 			end
+
 		end
+
 	end
+
 end
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("B"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("y"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("K"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("G"):Destroy()
+
 wait(1)
+
 end)
 
 TailleSection:NewButton("TitanLVL2", "Lvl2", function()
+
      local LocalPlayer = game:GetService("Players").LocalPlayer
+
 local Character = LocalPlayer.Character
+
 local Humanoid = Character:FindFirstChildOfClass("Humanoid")
 
 function rm()
+
 	for i,v in pairs(Character:GetDescendants()) do
+
 		if v:IsA("BasePart") then
+
 			if v.Name == "Handle" or v.Name == "Head" then
+
 				if Character.Head:FindFirstChild("OriginalSize") then
+
 					Character.Head.OriginalSize:Destroy()
+
 				end
+
 			else
+
 				for i,cav in pairs(v:GetDescendants()) do
+
 					if cav:IsA("Attachment") then
+
 						if cav:FindFirstChild("OriginalPosition") then
+
 							cav.OriginalPosition:Destroy()  
+
 						end
+
 					end
+
 				end
+
 				v:FindFirstChild("OriginalSize"):Destroy()
+
 				if v:FindFirstChild("AvatarPartScaleType") then
+
 					v:FindFirstChild("AvatarPartScaleType"):Destroy()
+
 				end
+
 			end
+
 		end
+
 	end
+
 end
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyHeightScale"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("y"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("K"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("G"):Destroy()
+
 wait(1)
+
 end)
 
 TailleSection:NewButton("TitanLVL3", "LVL3", function()
+
      local LocalPlayer = game:GetService("Players").LocalPlayer
+
 local Character = LocalPlayer.Character
+
 local Humanoid = Character:FindFirstChildOfClass("Humanoid")
 
 function rm()
+
 	for i,v in pairs(Character:GetDescendants()) do
+
 		if v:IsA("BasePart") then
+
 			if v.Name == "Handle" or v.Name == "Head" then
+
 				if Character.Head:FindFirstChild("OriginalSize") then
+
 					Character.Head.OriginalSize:Destroy()
+
 				end
+
 			else
+
 				for i,cav in pairs(v:GetDescendants()) do
+
 					if cav:IsA("Attachment") then
+
 						if cav:FindFirstChild("OriginalPosition") then
+
 							cav.OriginalPosition:Destroy()  
+
 						end
+
 					end
+
 				end
+
 				v:FindFirstChild("OriginalSize"):Destroy()
+
 				if v:FindFirstChild("AvatarPartScaleType") then
+
 					v:FindFirstChild("AvatarPartScaleType"):Destroy()
+
 				end
+
 			end
+
 		end
+
 	end
+
 end
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyHeightScale"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyWidthScale"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("n"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("l"):Destroy()
+
 wait(1)
+
 end)
 
 TailleSection:NewButton("TitanLVL5", "LVL5", function()
+
     local LocalPlayer = game:GetService("Players").LocalPlayer
+
 local Character = LocalPlayer.Character
+
 local Humanoid = Character:FindFirstChildOfClass("Humanoid")
 
 function rm()
+
 	for i,v in pairs(Character:GetDescendants()) do
+
 		if v:IsA("BasePart") then
+
 			if v.Name == "Handle" or v.Name == "Head" then
+
 				if Character.Head:FindFirstChild("OriginalSize") then
+
 					Character.Head.OriginalSize:Destroy()
+
 				end
+
 			else
+
 				for i,cav in pairs(v:GetDescendants()) do
+
 					if cav:IsA("Attachment") then
+
 						if cav:FindFirstChild("OriginalPosition") then
+
 							cav.OriginalPosition:Destroy()  
+
 						end
+
 					end
+
 				end
+
 				v:FindFirstChild("OriginalSize"):Destroy()
+
 				if v:FindFirstChild("AvatarPartScaleType") then
+
 					v:FindFirstChild("AvatarPartScaleType"):Destroy()
+
 				end
+
 			end
+
 		end
+
 	end
+
 end
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyProportionScale"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyHeightScale"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyWidthScale"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyDepthScale"):Destroy()
+
 wait(1)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("HeadScale"):Destroy()
+
 wait(1)
+
 end)
 
 TailleSection:NewButton("tete géante", "GROS CERVEAU", function()
+
     loadstring(game:HttpGet("https://raw.githubusercontent.com/sysGhost-aka-BiKode/BigHeadV2/main/BigHeadV2-r15", true))()
+
 end)
 
 TailleSection:NewButton("OBJETS GEANT (RTHRO SEULEMENT)", "GIGA CORNES", function()
+
     loadstring(game:HttpGet('https://raw.githubusercontent.com/DigitalityScripts/roblox-scripts/main/hat%20%2B%20head%20resize'))()
+
 end)
 
 TailleSection:NewButton("MicrobeLVL1", "Minuscule", function()
+
     local LocalPlayer = game:GetService("Players").LocalPlayer
+
 local Character = LocalPlayer.Character
+
 local Humanoid = Character:FindFirstChildOfClass("Humanoid")
 
 local function rm()
+
  for i,v in pairs(Character:GetDescendants()) do
+
   if v:IsA("BasePart") then
+
    if v.Name ~= "head" then
+
     for i,cav in pairs(v:GetDescendants()) do
+
      if cav:IsA("Attachment") then
+
       if cav:FindFirstChild("OriginalPosition") then
+
        cav.OriginalPosition:Destroy()
+
       end
+
      end
+
     end
+
     v:FindFirstChild("OriginalSize"):Destroy()
+
     if v:FindFirstChild("AvatarPartScaleType") then
+
      v:FindFirstChild("AvatarPartScaleType"):Destroy()
+
     end
+
    end
+
   end
+
  end
+
 end
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyTypeScale"):Destroy()
+
 wait(0.2)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("l"):Destroy()
+
 wait(0.2)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("b"):Destroy()
+
 wait(0.2)
 
 rm()
+
 wait(0.5)
+
 end)
 
 TailleSection:NewButton("MicrobeLVL2", "Minuscule", function()
+
     local LocalPlayer = game:GetService("Players").LocalPlayer
+
 local Character = LocalPlayer.Character
+
 local Humanoid = Character:FindFirstChildOfClass("Humanoid")
 
 local function rm()
+
  for i,v in pairs(Character:GetDescendants()) do
+
   if v:IsA("BasePart") then
+
    if v.Name ~= "Head" then
+
     for i,cav in pairs(v:GetDescendants()) do
+
      if cav:IsA("Attachment") then
+
       if cav:FindFirstChild("OriginalPosition") then
+
        cav.OriginalPosition:Destroy()
+
       end
+
      end
+
     end
+
     v:FindFirstChild("OriginalSize"):Destroy()
+
     if v:FindFirstChild("AvatarPartScaleType") then
+
      v:FindFirstChild("AvatarPartScaleType"):Destroy()
+
     end
+
    end
+
   end
+
  end
+
 end
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyTypeScale"):Destroy()
+
 wait(0.2)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyWidthScale"):Destroy()
+
 wait(0.2)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("k"):Destroy()
+
 wait(0.2)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("j"):Destroy()
+
 wait(0.2)
+
 end)
 
 TailleSection:NewButton("MicrobeLVL3", "Minuscule", function()
+
     local LocalPlayer = game:GetService("Players").LocalPlayer
+
 local Character = LocalPlayer.Character
+
 local Humanoid = Character:FindFirstChildOfClass("Humanoid")
 
 local function rm()
+
  for i,v in pairs(Character:GetDescendants()) do
+
   if v:IsA("BasePart") then
+
    if v.Name ~= "Head" then
+
     for i,cav in pairs(v:GetDescendants()) do
+
      if cav:IsA("Attachment") then
+
       if cav:FindFirstChild("OriginalPosition") then
+
        cav.OriginalPosition:Destroy()
+
       end
+
      end
+
     end
+
     v:FindFirstChild("OriginalSize"):Destroy()
+
     if v:FindFirstChild("AvatarPartScaleType") then
+
      v:FindFirstChild("AvatarPartScaleType"):Destroy()
+
     end
+
    end
+
   end
+
  end
+
 end
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyTypeScale"):Destroy()
+
 wait(0.2)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyWidthScale"):Destroy()
+
 wait(0.2)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("BodyDepthScale"):Destroy()
+
 wait(0.2)
 
 rm()
+
 wait(0.5)
+
 Humanoid:FindFirstChild("j"):Destroy()
+
 wait(0.2)
+
 end)
 
+--REVERSE
+local Reverse = Window:NewTab("Reverse")
+local ReverseSection = Reverse:NewSection("Reverse")
 
-
-
--- Admin
-local Admin = Window:NewTab ("Admin")
-local AdminSection = Admin:NewSection("Admin")
-
-
-AdminSection:NewButton("FaelIs admin", " admin script", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FaelTheExploiter/LuaU/main/yesssssssirrrrrrrrr", true))()
+ReverseSection:NewButton("Salut", "un essai", function()
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("tulaS" ,"All")
 end)
 
-AdminSection:NewButton("fate admin", " admin script", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))()
+ReverseSection:NewButton("Comment ça va", "un essai", function()
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("av aç tnemmoC" ,"All")
 end)
 
-HubSection:NewButton("VGA PANEL ADMIN", "11/09/2001", function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/arko34920v2/VGA/main/VGAPANEL'))()
+ReverseSection:NewButton("Ouais et toi", "un essai", function()
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("iot te siauO" ,"All")
 end)
 
--- Chatscript
-local Chatscript = Window:NewTab ("Chatscript")
-local ChatscriptSection = Chatscript:NewSection("Chatscript")
-
-
-ChatscriptSection:NewButton("fe chat translator", " vive google traduction", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/ec3zSH01"))();
+ReverseSection:NewButton("T'es où ?", "un essai", function()
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("? ùo se'T" ,"All")
 end)
 
-ChatscriptSection:NewButton("fe ChatBypass", " antitag", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/x114/RobloxScripts/main/FullChatBypass"))()
+ReverseSection:NewButton("Tu fais quoi ?", "un essai", function()
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("? iouq siaf uT" ,"All")
 end)
 
-ChatscriptSection:NewButton("fe moderator chat tags", " parler comme un modo", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/IlllIlIIIlllIlIlllIIlIlllIlIIlllI/PartnerPSX/main/FakePartnerTag", true))()
+ReverseSection:NewButton("Je te vois ", "un essai", function()
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("siov et eJ" ,"All")
 end)
 
--- Gui
-local Gui = Window:NewTab ("Gui")
-local GuiSection = Gui:NewSection("Gui")
-
-GuiSection:NewButton("clavier pc gui ", " clavier pour mobile", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+ReverseSection:NewButton("Tu pues", "un essai", function()
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("seup uT" ,"All")
 end)
 
-GuiSection:NewButton("funky friday gui", " gui pour funky friday", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ShowerHead-FluxTeam/scripts/main/funky-friday-autoplay"))()
+ReverseSection:NewButton("Tu sens le modo discord", "un essai", function()
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("seup uT" ,"All")
 end)
 
-GuiSection:NewButton("mm2 gui", " gui pour mm2", function()
-    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Drifter0507/GUIS/main/MURDER%20MYSTERY%202", true))();
+ReverseSection:NewButton("T'es moche", "un essai", function()
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("ehcom se'T" ,"All")
 end)
 
-GuiSection:NewButton("synapse x", " synapse sur mobile", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/tWGxhNq0"))()
+ReverseSection:NewButton("Niaseux", "un essai", function()
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("xuesiaiN" ,"All")
 end)
 
-GuiSection:NewButton("fly gui", " voler dans tout les jeux", function()
-    loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\103\105\115\116\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\109\101\111\122\111\110\101\89\84\47\98\102\48\51\55\100\102\102\57\102\48\97\55\48\48\49\55\51\48\52\100\100\100\54\55\102\100\99\100\51\55\48\47\114\97\119\47\101\49\52\101\55\52\102\52\50\53\98\48\54\48\100\102\53\50\51\51\52\51\99\102\51\48\98\55\56\55\48\55\52\101\98\51\99\53\100\50\47\97\114\99\101\117\115\37\50\53\50\48\120\37\50\53\50\48\102\108\121\37\50\53\50\48\50\37\50\53\50\48\111\98\102\108\117\99\97\116\111\114\39\41\44\116\114\117\101\41\41\40\41\10\10")()
+ReverseSection:NewButton("Crisse!!!", "un essai", function()
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("!!!essirC" ,"All")
 end)
 
--- Mapscript
-local Mapscript = Window:NewTab ("Mapscript")
-local MapscriptSection = Mapscript:NewSection("Mapscript")
-
-MapscriptSection:NewButton("fe monster", " rip la map", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/u5RRAUMS",true))()
+ReverseSection:NewButton("Tabarnak!!!", "un essai", function()
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("!!!kanrabaT" ,"All")
 end)
 
-MapscriptSection:NewButton("fe vehicule fling", " véhicule tornade", function()
-    loadstring(game:HttpGet("https://github.com/Oluflammes/fe-vehicule-fling/commit/9b28d1563d64943672cc2910ff7f1adf5a2491ed"))();
+ReverseSection:NewButton("Calisse!!!", "un essai", function()
+    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("!!!essilaC" ,"All")
 end)
 
-HubSection:NewButton("FLING ALL (SHAKE SERVER)", "SHAKE SERVER", function()
-     loadstring(game:HttpGet('https://github.com/DigitalityScripts/roblox-scripts/raw/main/loop%20fling%20all'))()
-end)
-
--- Tools
-local Tools = Window:NewTab ("Tools")
-local ToolsSection = Tools:NewSection("Tools")
-
-ToolsSection:NewButton("fe click fling tool", " click fling tool", function()
-    loadstring(game:HttpGet(('https://pastefy.ga/xBdd9GId/raw'),true))()
-end)
-
-ToolsSection:NewButton("fe invisible tools", " devient invisible", function()
-    loadstring(game:HttpGet("https://gist.githubusercontent.com/skid123skidlol/cd0d2dce51b3f20ad1aac941da06a1a1/raw/f58b98cce7d51e53ade94e7bb460e4f24fb7e0ff/%257BFE%257D%2520Invisible%2520Tool%2520(can%2520hold%2520tools)",true))()
-end)
-
-ToolsSection:NewButton("fe portail gun v2", " le fusil a rick", function()
-    loadstring(game:HttpGet(('https://pastefy.ga/hXHOUgDa/raw'),true))()
-end)
-
--- R15script
-local R15script= Window:NewTab ("R15script")
-local R15scriptSection = R15script:NewSection("R15script")
-
--- R6script
-local R6script = Window:NewTab ("R6script")
-local R6scriptSection = R6script:NewSection("R6script")
-
-NetlessSection:NewButton("Le tank (R6)", "Dans les fesses", function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/arko34920v2/TANKULATOR/main/TANKMORPHS'))()
-end)
-
-NetlessSection:NewButton("corps de bite cheloue (R6 UTILISE LA REA)", "coucou", function()
-    local plr = game.Players.LocalPlayer
-game:GetService("RunService").Stepped:Connect(function()
-   setsimulationradius(9e9,9e9)
-   plr.ReplicationFocus = workspace
-   settings().Physics.AllowSleep = false
-end)
-
-local runservice=game:service"RunService";
-local player=game:service"Players"["LocalPlayer"];
-local character=player["Character"];
-
-
-character["Humanoid"].HipHeight=0;
-character["Left Leg"]:BreakJoints();
-character["Right Leg"]:BreakJoints();
-character["Left Arm"]:BreakJoints();
-character["Right Arm"]:BreakJoints();
-while runservice["Heartbeat"]:Wait() do
-    character["Left Leg"].CFrame=character["HumanoidRootPart"].CFrame*CFrame.new(1,-1.5,0);
-    character["Right Leg"].CFrame=character["HumanoidRootPart"].CFrame*CFrame.new(-1,-1.5,0);
-    character["Left Arm"].CFrame=character["HumanoidRootPart"].CFrame*CFrame.new(0,5,0);
-    character["Right Arm"].CFrame=character["HumanoidRootPart"].CFrame*CFrame.new(0,3,0);
-end
-end)
-
--- R6etr15script
-local  R6etr15script= Window:NewTab ("R6etr15script")
-local R6etr15scriptSection = R6etr15script:NewSection("R6etr15script")
-
-NetlessSection:NewButton("REA R15 à R6 (peu de R6 script marchent)", "LA REA", function()
-    local healthHide = true --moves your head away every 3 seconds so players dont see your health bar (alignmode 4 only)
-local reclaim = true --if you lost control over a part this will move your primary part to the part so you get it back (alignmode 4)
-local novoid = true --prevents parts from going under workspace.FallenPartsDestroyHeight if you control them (alignmode 4 only)
-local physp = nil --PhysicalProperties.new(0.01, 0, 1, 0, 0) --sets .CustomPhysicalProperties to this for each part
-local noclipAllParts = false --set it to true if you want noclip
-local antiragdoll = true --removes hingeConstraints and ballSocketConstraints from your character
-local newanimate = true --disables the animate script and enables after reanimation
-local discharscripts = true --disables all localScripts parented to your character before reanimation
-local R15toR6 = true --tries to convert your character to r6 if its r15
-local hatcollide = true --makes hats cancollide (credit to ShownApe) (works only with reanimate method 0)
-local humState16 = true --enables collisions for limbs before the humanoid dies (using hum:ChangeState)
-local addtools = false --puts all tools from backpack to character and lets you hold them after reanimation
-local hedafterneck = true --disable aligns for head and enable after neck or torso is removed
-local loadtime = game:GetService("Players").RespawnTime + 0.5 --anti respawn delay
-local method = 3 --reanimation method
---methods:
---0 - breakJoints (takes [loadtime] seconds to load)
---1 - limbs
---2 - limbs + anti respawn
---3 - limbs + breakJoints after [loadtime] seconds
---4 - remove humanoid + breakJoints
---5 - remove humanoid + limbs
-local alignmode = 4 --AlignPosition mode
---modes:
---1 - AlignPosition rigidity enabled true
---2 - 2 AlignPositions rigidity enabled both true and false
---3 - AlignPosition rigidity enabled false
---4 - no AlignPosition, CFrame only
-local flingpart = "HumanoidRootPart" --name of the part or the hat used for flinging
---the fling function
---usage: fling(target, duration, velocity)
---target can be set to: basePart, CFrame, Vector3, character model or humanoid (flings at mouse.Hit if argument not provided)
---duration (fling time in seconds) can be set to a number or a string convertable to a number (0.5s if not provided)
---velocity (fling part rotation velocity) can be set to a vector3 value (Vector3.new(20000, 20000, 20000) if not provided)
-
-local lp = game:GetService("Players").LocalPlayer
-local rs, ws, sg = game:GetService("RunService"), game:GetService("Workspace"), game:GetService("StarterGui")
-local stepped, heartbeat, renderstepped = rs.Stepped, rs.Heartbeat, rs.RenderStepped
-local twait, tdelay, rad, inf, abs, mclamp = task.wait, task.delay, math.rad, math.huge, math.abs, math.clamp
-local cf, v3, angles = CFrame.new, Vector3.new, CFrame.Angles
-local v3_0, cf_0 = v3(0, 0, 0), cf(0, 0, 0)
-
-local c = lp.Character
-if not (c and c.Parent) then
-    return
-end
-
-c:GetPropertyChangedSignal("Parent"):Connect(function()
-    if not (c and c.Parent) then
-        c = nil
-    end
-end)
-
-local destroy = c.Destroy
-
-local function gp(parent, name, className)
-    if typeof(parent) == "Instance" then
-        for i, v in pairs(parent:GetChildren()) do
-            if typeof(parent) == "Instance" then
-        for i, v in pairs(parent:GetChildren()) do
-            if (v.Name == name) and v:IsA(className) then
-                return v
-            end
-        end
-    end
-    return nil
-end
-
-local v3_xz, v3_net = v3(8, 0, 8), v3(0.1, 25.1, 0.1)
-local function getNetlessVelocity(realPartVelocity) --edit this if you have a better netless method
-    if realPartVelocity.Magnitude < 0.1 then return v3_net end
-    return realPartVelocity * v3_xz + v3_net
-end
-
-local fenv = getfenv()
-
-local shp = fenv.sethiddenproperty or fenv.set_hidden_property or fenv.set_hidden_prop or fenv.sethiddenprop
-local ssr = fenv.setsimulationradius or fenv.set_simulation_radius or fenv.set_sim_radius or fenv.setsimradius or fenv.setsimrad or fenv.set_sim_rad
-
-healthHide = healthHide and ((method == 0) or (method == 2) or (method == 3)) and gp(c, "Head", "BasePart")
-
-local reclaim, lostpart = reclaim and c.PrimaryPart, nil
-
-local v3_hide = v3(0, 3000, 0)
-local function align(Part0, Part1)
-    
-    local att0 = Instance.new("Attachment")
-    att0.Position, att0.Orientation, att0.Name = v3_0, v3_0, "att0_" .. Part0.Name
-    local att1 = Instance.new("Attachment")
-    att1.Position, att1.Orientation, att1.Name = v3_0, v3_0, "att1_" .. Part1.Name
-
-    if alignmode == 4 then
-    
-        local hide = false
-        if Part0 == healthHide then
-            healthHide = false
-            tdelay(0, function()
-                while twait(2.9) and Part0 and c do
-                    hide = #Part0:GetConnectedParts() == 1
-                    twait(0.1)
-                    hide = false
-                end
-            end)
-        end
-        
-        local rot = rad(0.05)
-        local con0, con1 = nil, nil
-        con0 = stepped:Connect(function()
-            if not (Part0 and Part1) then return con0:Disconnect() and con1:Disconnect() end
-            Part0.RotVelocity = Part1.RotVelocity
-        end)
-        local lastpos, vel = Part0.Position, Part0.Velocity
-        con1 = heartbeat:Connect(function(delta)
-            if not (Part0 and Part1 and att1) then return con0:Disconnect() and con1:Disconnect() end
-            if (not Part0.Anchored) and (Part0.ReceiveAge == 0) then
-                if lostpart == Part0 then
-                    lostpart = nil
-                end
-                local newcf = Part1.CFrame * att1.CFrame
-                local vel = (newcf.Position - lastpos) / delta
-                Part0.Velocity = getNetlessVelocity(vel)
-                if vel.Magnitude < 1 then
-                    rot = -rot
-                    newcf *= angles(0, 0, rot)
-                end
-                lastpos = newcf.Position
-                if lostpart and (Part0 == reclaim) then
-                    newcf = lostpart.CFrame
-                elseif hide then
-                    newcf += v3_hide
-                end
-                if novoid and (newcf.Y < ws.FallenPartsDestroyHeight + 0.1) then
-                    newcf += v3(0, ws.FallenPartsDestroyHeight + 0.1 - newcf.Y, 0)
-                end
-                Part0.CFrame = newcf
-            elseif (not Part0.Anchored) and (abs(Part0.Velocity.X) < 45) and (abs(Part0.Velocity.Y) < 25) and (abs(Part0.Velocity.Z) < 45) then
-                lostpart = Part0
-            end
-        end)
-    
-    else
-        
-        Part0.CustomPhysicalProperties = physp
-        if (alignmode == 1) or (alignmode == 2) then
-            local ape = Instance.new("AlignPosition")
-            ape.MaxForce, ape.MaxVelocity, ape.Responsiveness = inf, inf, inf
-            ape.ReactionForceEnabled, ape.RigidityEnabled, ape.ApplyAtCenterOfMass = false, true, false
-            ape.Attachment0, ape.Attachment1, ape.Name = att0, att1, "AlignPositionRtrue"
-            ape.Parent = att0
-        end
-        
-        if (alignmode == 2) or (alignmode == 3) then
-            local apd = Instance.new("AlignPosition")
-            apd.MaxForce, apd.MaxVelocity, apd.Responsiveness = inf, inf, inf
-            apd.ReactionForceEnabled, apd.RigidityEnabled, apd.ApplyAtCenterOfMass = false, false, false
-            apd.Attachment0, apd.Attachment1, apd.Name = att0, att1, "AlignPositionRfalse"
-            apd.Parent = att0
-        end
-        
-        local ao = Instance.new("AlignOrientation")
-        ao.MaxAngularVelocity, ao.MaxTorque, ao.Responsiveness = inf, inf, inf
-        ao.PrimaryAxisOnly, ao.ReactionTorqueEnabled, ao.RigidityEnabled = false, false, false
-        ao.Attachment0, ao.Attachment1 = att0, att1
-        ao.Parent = att0
-        
-        local con0, con1 = nil, nil
-        local vel = Part0.Velocity
-        con0 = renderstepped:Connect(function()
-            if not (Part0 and Part1) then return con0:Disconnect() and con1:Disconnect() end
-            Part0.Velocity = framevel
-        end)
-        local lastpos = Part0.Position
-        con1 = heartbeat:Connect(function(delta)
-            if not (Part0 and Part1) then return con0:Disconnect() and con1:Disconnect() end
-            vel = Part0.Velocity
-            Part0.Velocity = getNetlessVelocity((Part1.Position - lastpos) / delta)
-            lastpos = Part1.Position
-        end)
-    
-    end
-
-    att0:GetPropertyChangedSignal("Parent"):Connect(function()
-        Part0 = att0.Parent
-        if not Part0:IsA("BasePart") then
-            att0 = nil
-            if lostpart == Part0 then
-                lostpart = nil
-            end
-            Part0 = nil
-        end
-    end)
-    att0.Parent = Part0
-    
-    att1:GetPropertyChangedSignal("Parent"):Connect(function()
-        Part1 = att1.Parent
-        if not Part1:IsA("BasePart") then
-            att1 = nil
-            Part1 = nil
-        end
-    end)
-    att1.Parent = Part1
-end
-
-local function respawnrequest()
-    local ccfr, c = ws.CurrentCamera.CFrame, lp.Character
-    lp.Character = nil
-    lp.Character = c
-    local con = nil
-    con = ws.CurrentCamera.Changed:Connect(function(prop)
-        if (prop ~= "Parent") and (prop ~= "CFrame") then
-            return
-        end
-        ws.CurrentCamera.CFrame = ccfr
-        con:Disconnect()
-    end)
-end
-
-local destroyhum = (method == 4) or (method == 5)
-local breakjoints = (method == 0) or (method == 4)
-local antirespawn = (method == 0) or (method == 2) or (method == 3)
-
-hatcollide = hatcollide and (method == 0)
-
-addtools = addtools and lp:FindFirstChildOfClass("Backpack")
-
-if antiragdoll then
-    antiragdoll = function(v)
-        if v:IsA("HingeConstraint") or v:IsA("BallSocketConstraint") then
-            v.Parent = nil
-        end
-    end
-    for i, v in pairs(c:GetDescendants()) do
-        antiragdoll(v)
-    end
-    c.DescendantAdded:Connect(antiragdoll)
-end
-
-if antirespawn then
-    respawnrequest()
-end
-
-if method == 0 then
-    twait(loadtime)
-    if not c then
-        return
-    end
-end
-
-if discharscripts then
-    for i, v in pairs(c:GetDescendants()) do
-        if v:IsA("LocalScript") then
-            v.Disabled = true
-        end
-    end
-elseif newanimate then
-    local animate = gp(c, "Animate", "LocalScript")
-    if animate and (not animate.Disabled) then
-        animate.Disabled = true
-    else
-        newanimate = false
-    end
-end
-
-if addtools then
-    for i, v in pairs(addtools:GetChildren()) do
-        if v:IsA("Tool") then
-            v.Parent = c
-        end
-    end
-end
-
-pcall(function()
-    settings().Physics.AllowSleep = false
-    settings().Physics.PhysicsEnvironmentalThrottle = Enum.EnviromentalPhysicsThrottle.Disabled
-end)
-
-local OLDscripts = {}
-
-for i, v in pairs(c:GetDescendants()) do
-    if v.ClassName == "Script" then
-        OLDscripts[v.Name] = true
-    end
-end
-
-local scriptNames = {}
-
-for i, v in pairs(c:GetDescendants()) do
-    if v:IsA("BasePart") then
-        local newName, exists = tostring(i), true
-        while exists do
-            exists = OLDscripts[newName]
-            if exists then
-                newName = newName .. "_"    
-            end
-        end
-        table.insert(scriptNames, newName)
-        Instance.new("Script", v).Name = newName
-    end
-end
-
-local hum = c:FindFirstChildOfClass("Humanoid")
-if hum then
-    for i, v in pairs(hum:GetPlayingAnimationTracks()) do
-        v:Stop()
-    end
-end
-c.Archivable = true
-local cl = c:Clone()
-if hum and humState16 then
-    hum:ChangeState(Enum.HumanoidStateType.Physics)
-    if destroyhum then
-        twait(1.6)
-    end
-end
-if destroyhum then
-    pcall(destroy, hum)
-end
-
-if not c then
-    return
-end
-
-local head, torso, root = gp(c, "Head", "BasePart"), gp(c, "Torso", "BasePart") or gp(c, "UpperTorso", "BasePart"), gp(c, "HumanoidRootPart", "BasePart")
-if hatcollide then
-    pcall(destroy, torso)
-    pcall(destroy, root)
-    pcall(destroy, c:FindFirstChildOfClass("BodyColors") or gp(c, "Health", "Script"))
-end
-
-local model = Instance.new("Model", c)
-model:GetPropertyChangedSignal("Parent"):Connect(function()
-    if not (model and model.Parent) then
-        model = nil
-    end
-end)
-
-for i, v in pairs(c:GetChildren()) do
-    if v ~= model then
-        if addtools and v:IsA("Tool") then
-            for i1, v1 in pairs(v:GetDescendants()) do
-                if v1 and v1.Parent and v1:IsA("BasePart") then
-                    local bv = Instance.new("BodyVelocity")
-                    bv.Velocity, bv.MaxForce, bv.P, bv.Name = v3_0, v3(1000, 1000, 1000), 1250, "bv_" .. v.Name
-                    bv.Parent = v1
-                end
-            end
-        end
-        v.Parent = model
-    end
-end
-
-if breakjoints then
-    model:BreakJoints()
-else
-    if head and torso then
-        for i, v in pairs(model:GetDescendants()) do
-            if v:IsA("JointInstance") then
-                local save = false
-                if (v.Part0 == torso) and (v.Part1 == head) then
-                    save = true
-                end
-                if (v.Part0 == head) and (v.Part1 == torso) then
-                    save = true
-                end
-                if save then
-                    if hedafterneck then
-                        hedafterneck = v
-                    end
-                else
-                    pcall(destroy, v)
-                end
-            end
-        end
-    end
-    if method == 3 then
-        task.delay(loadtime, pcall, model.BreakJoints, model)
-    end
-end
-
-cl.Parent = ws
-for i, v in pairs(cl:GetChildren()) do
-    v.Parent = c
-end
-pcall(destroy, cl)
-
-local uncollide, noclipcon = nil, nil
-if noclipAllParts then
-    uncollide = function()
-        if c then
-            for i, v in pairs(c:GetDescendants()) do
-                if v:IsA("BasePart") then
-                    v.CanCollide = false
-                end
-            end
-        else
-            noclipcon:Disconnect()
-        end
-    end
-else
-    uncollide = function()
-        if model then
-            for i, v in pairs(model:GetDescendants()) do
-                if v:IsA("BasePart") then
-                    v.CanCollide = false
-                end
-            end
-        else
-            noclipcon:Disconnect()
-        end
-    end
-end
-noclipcon = stepped:Connect(uncollide)
-uncollide()
-
-for i, scr in pairs(model:GetDescendants()) do
-    if (scr.ClassName == "Script") and table.find(scriptNames, scr.Name) then
-        local Part0 = scr.Parent
-        if Part0:IsA("BasePart") then
-            for i1, scr1 in pairs(c:GetDescendants()) do
-                if (scr1.ClassName == "Script") and (scr1.Name == scr.Name) and (not scr1:IsDescendantOf(model)) then
-                    local Part1 = scr1.Parent
-                    if (Part1.ClassName == Part0.ClassName) and (Part1.Name == Part0.Name) then
-                        align(Part0, Part1)
-                        pcall(destroy, scr)
-                        pcall(destroy, scr1)
-                        break
-                    end
-                end
-            end
-        end
-    end
-end
-
-for i, v in pairs(c:GetDescendants()) do
-    if v and v.Parent and (not v:IsDescendantOf(model)) then
-        if v:IsA("Decal") then
-            v.Transparency = 1
-        elseif v:IsA("BasePart") then
-            v.Transparency = 1
-            v.Anchored = false
-        elseif v:IsA("ForceField") then
-            v.Visible = false
-        elseif v:IsA("Sound") then
-            v.Playing = false
-        elseif v:IsA("BillboardGui") or v:IsA("SurfaceGui") or v:IsA("ParticleEmitter") or v:IsA("Fire") or v:IsA("Smoke") or v:IsA("Sparkles") then
-            v.Enabled = false
-        end
-    end
-end
-
-if newanimate then
-    local animate = gp(c, "Animate", "LocalScript")
-    if animate then
-        animate.Disabled = false
-    end
-end
-
-if addtools then
-    for i, v in pairs(c:GetChildren()) do
-        if v:IsA("Tool") then
-            v.Parent = addtools
-        end
-    end
-end
-
-local hum0, hum1 = model:FindFirstChildOfClass("Humanoid"), c:FindFirstChildOfClass("Humanoid")
-if hum0 then
-    hum0:GetPropertyChangedSignal("Parent"):Connect(function()
-        if not (hum0 and hum0.Parent) then
-            hum0 = nil
-        end
-    end)
-end
-if hum1 then
-    hum1:GetPropertyChangedSignal("Parent"):Connect(function()
-        if not (hum1 and hum1.Parent) then
-            hum1 = nil
-        end
-    end)
-
-    ws.CurrentCamera.CameraSubject = hum1
-    local camSubCon = nil
-    local function camSubFunc()
-        camSubCon:Disconnect()
-        if c and hum1 then
-            ws.CurrentCamera.CameraSubject = hum1
-        end
-    end
-    camSubCon = renderstepped:Connect(camSubFunc)
-    if hum0 then
-        hum0:GetPropertyChangedSignal("Jump"):Connect(function()
-            if hum1 then
-                hum1.Jump = hum0.Jump
-            end
-        end)
-    else
-        respawnrequest()
-    end
-end
-
-local rb = Instance.new("BindableEvent", c)
-rb.Event:Connect(function()
-    pcall(destroy, rb)
-    sg:SetCore("ResetButtonCallback", true)
-    if destroyhum then
-        if c then c:BreakJoints() end
-        return
-    end
-    if model and hum0 and (hum0.Health > 0) then
-        model:BreakJoints()
-        hum0.Health = 0
-    end
-    if antirespawn then
-        respawnrequest()
-    end
-end)
-sg:SetCore("ResetButtonCallback", rb)
-
-tdelay(0, function()
-    while c do
-        if hum0 and hum1 then
-            hum1.Jump = hum0.Jump
-        end
-        wait()
-    end
-    sg:SetCore("ResetButtonCallback", true)
-end)
-
-R15toR6 = R15toR6 and hum1 and (hum1.RigType == Enum.HumanoidRigType.R15)
-if R15toR6 then
-    local part = gp(c, "HumanoidRootPart", "BasePart") or gp(c, "UpperTorso", "BasePart") or gp(c, "LowerTorso", "BasePart") or gp(c, "Head", "BasePart") or c:FindFirstChildWhichIsA("BasePart")
-    if part then
-        local cfr = part.CFrame
-        local R6parts = { 
-            head = {
-                Name = "Head",
-                Size = v3(2, 1, 1),
-                R15 = {
-                    Head = 0
-                }
-            },
-            torso = {
-                Name = "Torso",
-                Size = v3(2, 2, 1),
-                R15 = {
-                    UpperTorso = 0.2,
-                    LowerTorso = -0.8
-                }
-            },
-            root = {
-                Name = "HumanoidRootPart",
-                Size = v3(2, 2, 1),
-                R15 = {
-                    HumanoidRootPart = 0
-                }
-            },
-            leftArm = {
-                Name = "Left Arm",
-                Size = v3(1, 2, 1),
-                R15 = {
-                    LeftHand = -0.849,
-                    LeftLowerArm = -0.174,
-                    LeftUpperArm = 0.415
-                }
-            },
-            rightArm = {
-                Name = "Right Arm",
-                Size = v3(1, 2, 1),
-                R15 = {
-                    RightHand = -0.849,
-                    RightLowerArm = -0.174,
-                    RightUpperArm = 0.415
-                }
-            },
-            leftLeg = {
-                Name = "Left Leg",
-                Size = v3(1, 2, 1),
-                R15 = {
-                    LeftFoot = -0.85,
-                    LeftLowerLeg = -0.29,
-                    LeftUpperLeg = 0.49
-                }
-            },
-            rightLeg = {
-                Name = "Right Leg",
-                Size = v3(1, 2, 1),
-                R15 = {
-                    RightFoot = -0.85,
-                    RightLowerLeg = -0.29,
-                    RightUpperLeg = 0.49
-                }
-            }
-        }
-        for i, v in pairs(c:GetChildren()) do
-            if v:IsA("BasePart") then
-                for i1, v1 in pairs(c:GetChildren()) do
-                    if v1:IsA("Motor6D") then
-                        v1.Part0 = nil
-                    end
-                end
-            end
-        end
-        part.Archivable = true
-        for i, v in pairs(R6parts) do
-            local part = part:Clone()
-            part:ClearAllChildren()
-            part.Transparency, part.CanCollide = v.Name, v.Size, cfr, false, 1, false
-            for i1, v1 in pairs(v.R15) do
-                local R15part = gp(c, i1, "BasePart")
-                local att = gp(R15part, "att1_" .. i1, "Attachment")
-                if R15part then
-                    local weld = Instance.new("Weld")
-                    weld.Part0, weld.Part1, weld.C0, weld.C1, weld.Name = part, R15part, cf(0, v1, 0), cf_0, "Weld_" .. i1
-                    weld.Parent = R15part
-                    R15part.Massless, R15part.Name = true, "R15_" .. i1
-                    R15part.Parent = part
-                    if att then
-                        att.Position = v3(0, v1, 0)
-                        att.Parent = part
-                    end
-                end
-            end
-            part.Parent = c
-            R6parts[i] = part
-        end
-        local R6joints = {
-            neck = {
-                Parent = R6parts.torso,
-                Name = "Neck",
-                Part0 = R6parts.torso,
-                Part1 = R6parts.head,
-                C0 = cf(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, -0),
-                C1 = cf(0, -0.5, 0, -1, 0, 0, 0, 0, 1, 0, 1, -0)
-            },
-            rootJoint = {
-                Parent = R6parts.root,
-                Name = "RootJoint" ,
-                Part0 = R6parts.root,
-                Part1 = R6parts.torso,
-                C0 = cf(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, -0),
-                C1 = cf(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, -0)
-            },
-            rightShoulder = {
-                Parent = R6parts.torso,
-                Name = "Right Shoulder",
-                Part0 = R6parts.torso,
-                Part1 = R6parts.rightArm,
-                C0 = cf(1, 0.5, 0, 0, 0, 1, 0, 1, -0, -1, 0, 0),
-                C1 = cf(-0.5, 0.5, 0, 0, 0, 1, 0, 1, -0, -1, 0, 0)
-            },
-            leftShoulder = {
-                Parent = R6parts.torso,
-                Name = "Left Shoulder",
-                Part0 = R6parts.torso,
-                Part1 = R6parts.leftArm,
-                C0 = cf(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0),
-                C1 = cf(0.5, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0)
-            },
-            rightHip = {
-                Parent = R6parts.torso,
-                Name = "Right Hip",
-                Part0 = R6parts.torso,
-                Part1 = R6parts.rightLeg,
-                C0 = cf(1, -1, 0, 0, 0, 1, 0, 1, -0, -1, 0, 0),
-                C1 = cf(0.5, 1, 0, 0, 0, 1, 0, 1, -0, -1, 0, 0)
-            },
-            leftHip = {
-                Parent = R6parts.torso,
-                Name = "Left Hip" ,
-                Part0 = R6parts.torso,
-                Part1 = R6parts.leftLeg,
-                C0 = cf(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0),
-                C1 = cf(-0.5, 1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0)
-            }
-        }
-        for i, v in pairs(R6joints) do
-            local joint = Instance.new("Motor6D")
-            for prop, val in pairs(v) do
-                joint[prop] = val
-            end
-            R6joints[i] = joint
-        end
-        if hum1 then
-            hum1.RigType, hum1.HipHeight = Enum.HumanoidRigType.R6, 0
-        end
-    end
-end
-
-local torso1 = torso
-torso = gp(c, "Torso", "BasePart") or ((not R15toR6) and gp(c, torso.Name, "BasePart"))
-if (typeof(hedafterneck) == "Instance") and head and torso and torso1 then
-    local conNeck, conTorso, conTorso1 = nil, nil, nil
-    local aligns = {}
-    local function enableAligns()
-        conNeck:Disconnect()
-        conTorso:Disconnect()
-        conTorso1:Disconnect()
-        for i, v in pairs(aligns) do
-            v.Enabled = true
-        end
-    end
-    conNeck = hedafterneck.Changed:Connect(function(prop)
-        if table.find({"Part0", "Part1", "Parent"}, prop) then
-            enableAligns()
-        end
-    end)
-    conTorso = torso:GetPropertyChangedSignal("Parent"):Connect(enableAligns)
-    conTorso1 = torso1:GetPropertyChangedSignal("Parent"):Connect(enableAligns)
-    for i, v in pairs(head:GetDescendants()) do
-        if v:IsA("AlignPosition") or v:IsA("AlignOrientation") then
-            i = tostring(i)
-            aligns[i] = v
-            v:GetPropertyChangedSignal("Parent"):Connect(function()
-                aligns[i] = nil
-            end)
-            v.Enabled = false
-        end
-    end
-end
-
-local flingpart0 = gp(model, flingpart, "BasePart") or gp(gp(model, flingpart, "Accessory"), "Handle", "BasePart")
-local flingpart1 = gp(c, flingpart, "BasePart") or gp(gp(c, flingpart, "Accessory"), "Handle", "BasePart")
-
-local fling = function() end
-if flingpart0 and flingpart1 then
-    flingpart0:GetPropertyChangedSignal("Parent"):Connect(function()
-        if not (flingpart0 and flingpart0.Parent) then
-            flingpart0 = nil
-            fling = function() end
-        end
-    end)
-    flingpart0.Archivable = true
-    flingpart1:GetPropertyChangedSignal("Parent"):Connect(function()
-        if not (flingpart1 and flingpart1.Parent) then
-            flingpart1 = nil
-            fling = function() end
-        end
-    end)
-    local att0 = gp(flingpart0, "att0_" .. flingpart0.Name, "Attachment")
-    local att1 = gp(flingpart1, "att1_" .. flingpart1.Name, "Attachment")
-    if att0 and att1 then
-        att0:GetPropertyChangedSignal("Parent"):Connect(function()
-            if not (att0 and att0.Parent) then
-                att0 = nil
-                fling = function() end
-            end
-        end)
-        att1:GetPropertyChangedSignal("Parent"):Connect(function()
-            if not (att1 and att1.Parent) then
-                att1 = nil
-                fling = function() end
-            end
-        end)
-        local lastfling = nil
-        local mouse = lp:GetMouse()
-        fling = function(target, duration, rotVelocity)
-            if typeof(target) == "Instance" then
-                if target:IsA("BasePart") then
-                    target = target.Position
-                elseif target:IsA("Model") then
-                    target = gp(target, "HumanoidRootPart", "BasePart") or gp(target, "Torso", "BasePart") or gp(target, "UpperTorso", "BasePart") or target:FindFirstChildWhichIsA("BasePart")
-                    if target then
-                        target = target.Position
-                    else
-                        return
-                    end
-                elseif target:IsA("Humanoid") then
-                    target = target.Parent
-                    if not (target and target:IsA("Model")) then
-                        return
-                    end
-                    target = gp(target, "HumanoidRootPart", "BasePart") or gp(target, "Torso", "BasePart") or gp(target, "UpperTorso", "BasePart") or target:FindFirstChildWhichIsA("BasePart")
-                    if target then
-                        target = target.Position
-                    else
-                        return
-                    end
-                else
-                    return
-                end
-            elseif typeof(target) == "CFrame" then
-                target = target.Position
-            elseif typeof(target) ~= "Vector3" then
-                target = mouse.Hit
-                if target then
-                    target = target.Position
-                else
-                    return
-                end
-            end
-            if target.Y < ws.FallenPartsDestroyHeight + 5 then
-                target = v3(target.X, ws.FallenPartsDestroyHeight + 5, target.Z)
-            end
-            lastfling = target
-            if type(duration) ~= "number" then
-                duration = tonumber(duration) or 0.5
-            end
-            if typeof(rotVelocity) ~= "Vector3" then
-                rotVelocity = v3(20000, 20000, 20000)
-            end
-            if not (target and flingpart0 and flingpart1 and att0 and att1) then
-                return
-            end
-            flingpart0.Archivable = true
-            local flingpart = flingpart0:Clone()
-            flingpart.Transparency = 1
-            flingpart.CanCollide = false
-            flingpart.Name = "flingpart_" .. flingpart0.Name
-            flingpart.Anchored = true
-            flingpart.Velocity = v3_0
-            flingpart.RotVelocity = v3_0
-            flingpart.Position = target
-            flingpart:GetPropertyChangedSignal("Parent"):Connect(function()
-                if not (flingpart and flingpart.Parent) then
-                    flingpart = nil
-                end
-            end)
-            flingpart.Parent = flingpart1
-            if flingpart0.Transparency > 0.5 then
-                flingpart0.Transparency = 0.5
-            end
-            att1.Parent = flingpart
-            local con = nil
-            local rotchg = v3(0, rotVelocity.Unit.Y * -1000, 0)
-            con = heartbeat:Connect(function(delta)
-                if target and (lastfling == target) and flingpart and flingpart0 and flingpart1 and att0 and att1 then
-                    flingpart.Orientation += rotchg * delta
-                    flingpart0.RotVelocity = rotVelocity
-                else
-                    con:Disconnect()
-                end
-            end)
-            if alignmode ~= 4 then
-                local con = nil
-                con = renderstepped:Connect(function()
-                    if flingpart0 and target then
-                        flingpart0.RotVelocity = v3_0
-                    else
-                        con:Disconnect()
-                    end
-                end)
-            end
-            twait(duration)
-            if lastfling ~= target then
-                if flingpart then
-                    if att1 and (att1.Parent == flingpart) then
-                        att1.Parent = flingpart1
-                    end
-                    pcall(destroy, flingpart)
-                end
-                return
-            end
-            target = nil
-            if not (flingpart and flingpart0 and flingpart1 and att0 and att1) then
-                return
-            end
-            flingpart0.RotVelocity = v3_0
-            att1.Parent = flingpart1
-            pcall(destroy, flingpart)
-        end
-    end
-end
-end)
-
-NetlessSection:NewButton("La pyramide (R6)", "WTF", function()
-    local plr = game.Players.LocalPlayer
-game:GetService("RunService").Stepped:Connect(function()
-   setsimulationradius(9e9,9e9)
-   plr.ReplicationFocus = workspace
-   settings().Physics.AllowSleep = false
-end)
-
-local runservice=game:service"RunService";
-local player=game:service"Players"["LocalPlayer"];
-local character=player["Character"];
-local blacklisted="Head Torso HumanoidRootPart";
-local limbs={};
-
-character["Humanoid"].HipHeight=2;
---character["Head"]:FindFirstChildOfClass"SpecialMesh":Destroy();
-
-for i,v in next,character:children() do
-    if (v.ClassName=="Part") and not blacklisted:find(v.Name) then
-        v:BreakJoints();
-        limbs[v.Name]=v;
-    end
-end
-
-while runservice["Heartbeat"]:Wait() do
-    limbs["Left Leg"].CFrame=character["HumanoidRootPart"].CFrame*CFrame.new(-1,-2,0);
-    limbs["Right Leg"].CFrame=character["HumanoidRootPart"].CFrame*CFrame.new(1,-2,0);
-    limbs["Left Arm"].CFrame=character["Left Leg"].CFrame*CFrame.new(-1,-2,0);
-    limbs["Right Arm"].CFrame=character["Right Leg"].CFrame*CFrame.new(1,-2,0);
-end
-end)
-
-NetlessSection:NewButton("Le serpent (R6 et R15)", "KSSS", function()
-    loadstring(game:HttpGet(('https://pastefy.ga/tWBTcE4R/raw'),true))()
-end)
-
-NetlessSection:NewButton("Creeper (R6 et R15)", "BOOOOM", function()
-    loadstring(game:HttpGet(('https://pastefy.ga/tWBTcE4R/raw'),true))()
-end)
-
-NetlessSection:NewButton("la mouche (R6 et R15) (mettre l'id de la mouche dans icehub)", "bzzzzzz", function()
-    local speed = 15
-
-local lp = game:GetService("Players").LocalPlayer
-local c = lp.Character
-if not (c and c.Parent) then return nil end
-local uis = game:GetService("UserInputService")
-local function gp(parent, name, className)
-    if typeof(parent) == "Instance" then
-        for i, v in pairs(parent:GetChildren()) do
-            if (v.Name == name) and v:IsA(className) then
-                return v
-            end
-        end
-    end
-    return nil
-end
-local Vector3_101 = Vector3.new(1, 0, 1)
-local netless_Y = Vector3.new(0, 25.1, 0)
-local function getNetlessVelocity(realPartVelocity)
-    local mag = realPartVelocity.Magnitude
-    if mag > 1 then
-        local unit = realPartVelocity.Unit
-        if (unit.Y > 0.25) or (unit.Y < -0.75) then
-            return realPartVelocity * (25.1 / realPartVelocity.Y)
-        end
-        realPartVelocity = unit * 125
-    end
-    return (realPartVelocity * Vector3_101) + netless_Y
-end
-local ws = game:GetService("Workspace")
-if not c:IsDescendantOf(ws) then return nil end
-local hat = gp(c, "Pet FlyAccessory", "Accessory")
-local handle = gp(hat, "Handle", "BasePart")
-if not handle then return "skill issue" end
-local hum = c:FindFirstChildOfClass("Humanoid")
-if not hum then return end
-local rs = game:GetService("RunService")
-local heartbeat, renderstepped = rs.Heartbeat, rs.RenderStepped
-pcall(c.Destroy, gp(handle, "AccessoryWeld", "Weld"))
-hum.WalkSpeed = 0
-local v3 = Vector3.new
-local v3_9e9 = v3(9e9, 9e9, 9e9)
-local pos = handle.Position
-local bg = nil
-local con = nil 
-con = renderstepped:Connect(function(delta)
-    if not handle then 
-        return con:Disconenct() 
-    end
-    ws.CurrentCamera.CameraSubject = handle
-    if not uis:GetFocusedTextBox() then
-        if uis:IsKeyDown(Enum.KeyCode.W) then
-            pos += ws.CurrentCamera.CFrame.LookVector * speed * delta
-        end
-        if uis:IsKeyDown(Enum.KeyCode.S) then
-            pos -= ws.CurrentCamera.CFrame.LookVector * speed * delta
-        end
-        if uis:IsKeyDown(Enum.KeyCode.D) then
-            pos += ws.CurrentCamera.CFrame.RightVector * speed * delta
-        end
-        if uis:IsKeyDown(Enum.KeyCode.A) then
-            pos -= ws.CurrentCamera.CFrame.RightVector * speed * delta
-        end
-    end
-    handle.Velocity = (pos - handle.Position) / delta
-    if not bg then
-        bg = Instance.new("BodyGyro")
-    end
-    bg.Name = tostring(math.random(69, 6969))
-    bg.D = 50
-    bg.P = 200
-    bg.MaxTorque = v3_9e9
-    bg.Parent = handle
-    bg.CFrame = ws.CurrentCamera.CFrame
-end)
-local con = nil
-con = heartbeat:Connect(function()
-    if not handle then
-        return con:Disconnect()
-    end
-    handle.Velocity = getNetlessVelocity(handle.Velocity)
- if bg then bg:Destroy() bg = nil end
-end)
-handle.AncestryChanged:Connect(function()
-    if (handle.Parent ~= c) or (not c:IsDescendantOf(ws)) then
-        handle = nil
-    end
-end)
-end)
-
--- Accessoiremouche
-local Accessoiremouche = Window:NewTab ("Accessoiremouche")
-local AccessoiremoucheSection = Accessoiremouche:NewSection("Accessoiremouche")
-
-NetlessSection:NewButton("Copier ID mouche", "Pour icehub", function()
-    setclipboard("6311978305")
-toclipboard("6311978305")
-end)
-
--- Accesoires
+-- Accessoires
 local Accesoires = Window:NewTab("Accesoires")
 local AccesoiresSection = Accesoires:NewSection("Accesoires")
-
 
 AccesoiresSection:NewButton("[FEU] Cornes feu rouge (698,887 robux)", "un essai", function()
     setclipboard("215718515")
@@ -1937,386 +1520,200 @@ AccesoiresSection:NewButton("Bientot...", "...", function()
 toclipboard("Soon...")
 end)
 
--- Code
-local Code = Window:NewTab ("Code")
-local CodeSection = Code:NewSection("Code")
-
-CodeSection:NewButton("CYBERPUNK 🔊", "un essai", function()
-    setclipboard("6911766512")
-toclipboard("6911766512")
-end)
-
-CodeSection:NewButton("RIP/read inside🖤", "...", function()
-    setclipboard("6658650660")
-toclipboard("6658650660")
-end)
-
-CodeSection:NewButton("SKZCRINGE/isvvc💀", "un essai", function()
-    setclipboard("6819593773")
-toclipboard("6819593773")
-end)
-
-CodeSection:NewButton("TROJAN/puma😈", "un essai", function()
-    setclipboard("6923867528")
-toclipboard("6923867528")
-end)
-
-CodeSection:NewButton("e girl 👾", "...", function()
-    setclipboard("6868493025")
-toclipboard("6868493025")
-end)
-
-CodeSection:NewButton("USRAP/Wanna Smoke", "...", function()
-    setclipboard("6772846771")
-toclipboard("6772846771")
-end)
-
-CodeSection:NewButton("Sad Nigga Hour 🙈", "...", function()
-    setclipboard("6806140478")
-toclipboard("6806140478")
-end)
-
-CodeSection:NewButton("INTRO🎮", "...", function()
-    setclipboard("6817682704")
-toclipboard("6817682704")
-end)
-
-CodeSection:NewButton("Phonk bass", "...", function()
-    setclipboard("1050510419")
-toclipboard("1050510419")
-end)
-
-CodeSection:NewButton("MONSTER SCREAM👹", "un essai", function()
-    setclipboard("9059284808")
-toclipboard("9059284808")
-end)
-
-CodeSection:NewButton("windows XP startup💻", "un essai", function()
-    setclipboard("9094546337")
-toclipboard("9094546337")
-end)
-
-CodeSection:NewButton("Le billet 💵", "...", function()
-    setclipboard("6950593634")
-toclipboard("6950593634")
-end)
-
-CodeSection:NewButton("Still here", "un essai", function()
-    setclipboard("7006487793")
-toclipboard("7006487793")
-end)
-
-CodeSection:NewButton("kroxxroad", "...", function()
-    setclipboard("6893776529")
-toclipboard("6893776529")
-end)
-
-CodeSection:NewButton("inappropriate 🚫", "...", function()
-    setclipboard("6555905311")
-toclipboard("6555905311")
-end)
-
-CodeSection:NewButton("Jumex loner🌆", "...", function()
-    setclipboard("6847929757")
-toclipboard("6847929757")
-end)
-
-CodeSection:NewButton("Yokaivv", "...", function()
-    setclipboard("6909980547")
-toclipboard("6909980547")
-end)
-
-CodeSection:NewButton("Wanna Smoke/USRAP 🤬", "...", function()
-    setclipboard("6772846771")
-toclipboard("6772846771")
+AccesoiresSection:NewButton("Duchesse de la Fédération (3,000,000 robux)", "...", function()
+	setclipboard("439984665")
+toclipboard("439984665")
 end)
 
-CodeSection:NewButton("phonk", "...", function()
-    setclipboard("7987319238")
-toclipboard("7987319238")
+AccesoiresSection:NewButton("Baronne déchue de la Fédération (399,997 robux)", "...", function()
+	setclipboard("1180419690")
+toclipboard("1180419690")
 end)
 
-CodeSection:NewButton("Bag de griff", "...", function()
-    setclipboard("6841087956")
-toclipboard("6841087956")
+AccesoiresSection:NewButton("Dame de la Fédération (OFFSALE)", "...", function()
+    setclipboard("207207782")
+toclipboard("207207782")
 end)
 
-CodeSection:NewButton("Loud/earrape", "...", function()
-    setclipboard("6846153394")
-toclipboard("6846153394")
+AccesoiresSection:NewButton("Archiduc de la Fédération (19,999,992 robux)", "...", function()
+	setclipboard("293316452")
+toclipboard("293316452")
 end)
 
-CodeSection:NewButton("Join Z loud", "...", function()
-    setclipboard("6969006426")
-toclipboard("6969006426")
+AccesoiresSection:NewButton(" (3,499,990 robux)", "...", function()
+	setclipboard("1180419124")
+toclipboard("1180419124")
 end)
 
-CodeSection:NewButton("aaaaa zo", "...", function()
-    setclipboard("8222782975")
-toclipboard("8222782975")
+AccesoiresSection:NewButton("Duc de la Fédération (Duc de la Fédération robux)", "...", function()
+	setclipboard("128158708")
+toclipboard("128158708")
 end)
 
-CodeSection:NewButton("Electric City", "...", function()
-    setclipboard("1838659275")
-toclipboard("1838659275")
+AccesoiresSection:NewButton("Comtesse de la Fédération (6,000,000 robux)", "...", function()
+	setclipboard("188003914")
+toclipboard("188003914")
 end)
 
-CodeSection:NewButton("Harx is fury😡", "...", function()
-    setclipboard("6909980547")
-toclipboard("6909980547")
+AccesoiresSection:NewButton("Vicomtesse de la Fédération (3,500,000 robux)", "...", function()
+	setclipboard("4390900302")
+toclipboard("4390900302")
 end)
 
-CodeSection:NewButton("Shifting 🔊👿", "...", function()
-    setclipboard("6943232352")
-toclipboard("6943232352")
+AccesoiresSection:NewButton("Archiduchesse de la Fédération (2,860,000 robux)", "...", function()
+	setclipboard("878889105")
+toclipboard("878889105")
 end)
 
-CodeSection:NewButton("Black and yellow🐝", "...", function()
-    setclipboard("139235100")
-toclipboard("139235100")
+AccesoiresSection:NewButton("Seigneur de la Fédération (618,033,988 robux)", "...", function()
+	setclipboard("88885069")
+toclipboard("88885069")
 end)
 
-CodeSection:NewButton("frosting of my Heart🤍", "...", function()
-    setclipboard("8222790838")
-toclipboard("8222790838")
+AccesoiresSection:NewButton("Comte de la Fédération (3,777,776 robux)", "...", function()
+	setclipboard("146134358")
+toclipboard("146134358")
 end)
 
-CodeSection:NewButton("Jumpstyle", "...", function()
-    setclipboard("1839246711")
-toclipboard("1839246711")
+AccesoiresSection:NewButton("Couronne pourpre du périastre (3,800 robux)", "...", function()
+	setclipboard("3210189360")
+toclipboard("3210189360")
 end)
 
-CodeSection:NewButton("Hello Bozo🤡", "...", function()
-    setclipboard("7516826765")
-toclipboard("7516826765")
+AccesoiresSection:NewButton("Couronne du périastre de la Chartreuse (4,444 robux)", "...", function()
+	setclipboard("1744048439")
+toclipboard("1744048439")
 end)
 
-CodeSection:NewButton("Russian", "...", function()
-    setclipboard("9071698640")
-toclipboard("9071698640")
+AccesoiresSection:NewButton("Couronne du périastre (18,790 robux)", "...", function()
+	setclipboard("343585234")
+toclipboard("343585234")
 end)
 
-CodeSection:NewButton("TACTICAL NUKE☢️", "...", function()
-    setclipboard("1312880397")
-toclipboard("1312880397")
+AccesoiresSection:NewButton("Couronne d'énergie de l'univers le plus lointain (16,998 robux)", "...", function()
+	setclipboard("146082923")
+toclipboard("146082923")
 end)
 
-CodeSection:NewButton("MORGENSHTERN HAWAI🌺", "...", function()
-    setclipboard("1837255793")
-toclipboard("1837255793")
+AccesoiresSection:NewButton("Couronne de katanas du soleil silencieux (14,000 robux)", "...", function()
+	setclipboard("146083020")
+toclipboard("146083020")
 end)
 
-CodeSection:NewButton("SAD VIOLON🎻", "...", function()
-    setclipboard("135308045")
-toclipboard("135308045")
+AccesoiresSection:NewButton("Couronne du duo d'épées de la toundra nordique (9,000 robux)", "...", function()
+	setclipboard("330295337")
+toclipboard("330295337")
 end)
 
-CodeSection:NewButton("日本の崇拝", "...", function()
-    setclipboard("435240116")
-toclipboard("435240116")
+AccesoiresSection:NewButton("Roi de la nuit en argent (191,999 robux)", "...", function()
+	setclipboard("439945661")
+toclipboard("439945661")
 end)
 
-CodeSection:NewButton("WASTED GTA🪦", "...", function()
-    setclipboard("204074025")
-toclipboard("204074025")
+AccesoiresSection:NewButton("Roi de la nuit en adurite (124,000 robux)", "...", function()
+	setclipboard("439946101")
+toclipboard("439946101")
 end)
 
-CodeSection:NewButton("JOJO ATTACK", "...", function()
-    setclipboard("1571597070")
-toclipboard("1571597070")
+AccesoiresSection:NewButton("Roi de la nuit en or (154,444 robux)", "...", function()
+	setclipboard("439945864")
+toclipboard("439945864")
 end)
 
-CodeSection:NewButton("HEAVY METAL🔊🤬👿", "...", function()
-    setclipboard("1837278308")
-toclipboard("1837278308")
+AccesoiresSection:NewButton("Couronne céruléenne sombre d'Ozymandias (495,000 robux)", "...", function()
+	setclipboard("13370505")
+toclipboard("13370505")
 end)
 
-CodeSection:NewButton("RASTAMAN☀️", "...", function()
-    setclipboard("1839144981")
-toclipboard("1839144981")
+AccesoiresSection:NewButton("Couronne rouge d'Ozymandias (777,777,777,777,777 robux)", "...", function()
+	setclipboard("9465511")
+toclipboard("9465511")
 end)
 
-CodeSection:NewButton("Cornemuse pour niquer vos oreilles🎶", "...", function()
-    setclipboard("1840225614")
-toclipboard("1840225614")
-end)
-
-CodeSection:NewButton("Hymne des USA", "...", function()
-    setclipboard("1840297374")
-toclipboard("1840297374")
-end)
-
-CodeSection:NewButton("AAAAAAAAA", "...", function()
-    setclipboard("2006547142")
-toclipboard("2006547142")
-end)
-
-CodeSection:NewButton("y'a des noirs ici🐒", "...", function()
-    setclipboard("2473639958")
-toclipboard("2473639958")
-end)
-
-CodeSection:NewButton("WAAAAW KAWAI", "...", function()
-    setclipboard("2976402600")
-toclipboard("2976402600")
-end)
-
-CodeSection:NewButton("BRUH", "...", function()
-    setclipboard("4572116031")
-toclipboard("4572116031")
-end)
-
-CodeSection:NewButton("CHIASSE💩", "...", function()
-    setclipboard("4809574295")
-toclipboard("4809574295")
-end)
-
-CodeSection:NewButton("FNAF", "...", function()
-    setclipboard("5216480240")
-toclipboard("5216480240")
-end)
-
-CodeSection:NewButton("SIREN HEAD", "...", function()
-    setclipboard("5681392704")
-toclipboard("5681392704")
-end)
+-- Admin
+local Admin = Window:NewTab ("Admin")
+local AdminSection = Admin:NewSection("Admin")
 
-CodeSection:NewButton("BLOOD POP", "...", function()
-    setclipboard("6783714255")
-toclipboard("6783714255")
+AdminSection:NewButton("FaelIs admin", " admin script", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FaelTheExploiter/LuaU/main/yesssssssirrrrrrrrr", true))()
 end)
 
-CodeSection:NewButton("Rire bizzare😂", "...", function()
-    setclipboard("9094639541")
-toclipboard("9094639541")
+AdminSection:NewButton("fate admin", " admin script", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))()
 end)
 
-CodeSection:NewButton("Rose By Lukrembo🌹", "...", function()
-    setclipboard("9123682910")
-toclipboard("9123682910")
+AdminSection:NewButton("VGA PANEL ADMIN", "11/09/2001", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/arko34920v2/VGA/main/VGAPANEL'))()
 end)
 
-CodeSection:NewButton("prxjex", "...", function()
-    setclipboard("6943232352")
-toclipboard("6943232352")
-end)
-
-CodeSection:NewButton("clear", "...", function()
-    setclipboard("6808292148")
-toclipboard("6808292148")
-end)
-
-CodeSection:NewButton("get of me", "...", function()
-    setclipboard("6817682704")
-toclipboard("6817682704")
-end)
-
-CodeSection:NewButton("deep and dirty", "...", function()
-    setclipboard("1836785943")
-toclipboard("1836785943")
-end)
-
-CodeSection:NewButton("dead inside", "...", function()
-    setclipboard("6658650660")
-toclipboard("6658650660")
-end)
+-- Chatscript
+local Chatscript = Window:NewTab ("Chatscript")
+local ChatscriptSection = Chatscript:NewSection("Chatscript")
 
-CodeSection:NewButton("phonk bresil", "...", function()
-    setclipboard("6896624865")
-toclipboard("6896624865")
+ChatscriptSection:NewButton("fe chat translator", " vive google traduction", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/ec3zSH01"))();
 end)
 
-CodeSection:NewButton("Printer 29 argh", "...", function()
-	setclipboard("6435679021")
-toclipboard("6435679021")
+ChatscriptSection:NewButton("fe ChatBypass", " antitag", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/x114/RobloxScripts/main/FullChatBypass"))()
 end)
 
-CodeSection:NewButton("Give me somes skittles 🤪🌈", "...", function()
-	setclipboard("4239002503")
-toclipboard("4239002503")
+ChatscriptSection:NewButton("fe moderator chat tags", " parler comme un modo", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IlllIlIIIlllIlIlllIIlIlllIlIIlllI/PartnerPSX/main/FakePartnerTag", true))()
 end)
 
-CodeSection:NewButton("car bump", "...", function()
-	setclipboard("7702262254")
-toclipboard("7702262254")
-end)
-
-CodeSection:NewButton("oof", "...", function()
-	setclipboard("6834218705")
-toclipboard("6834218705")
-end)
-
-CodeSection:NewButton("MIDNIGHT", "...", function()
-	setclipboard("1840038982")
-toclipboard("1840038982")
-end)
-
-CodeSection:NewButton("Spy/Nox Song", "...", function()
-	setclipboard("6674211522")
-toclipboard("6674211522")
-end)
+-- Gui
+local Gui = Window:NewTab ("Gui")
+local GuiSection = Gui:NewSection("Gui")
 
-CodeSection:NewButton("horror clip", "...", function()
-	setclipboard("8352728971")
-toclipboard("8352u28971")
+GuiSection:NewButton("clavier pc gui ", " clavier pour mobile", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end)
 
-CodeSection:NewButton("escape", "...", function()
-	setclipboard("8420609252")
-toclipboard("8420609252")
+GuiSection:NewButton("funky friday gui", " gui pour funky friday", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ShowerHead-FluxTeam/scripts/main/funky-friday-autoplay"))()
 end)
 
-CodeSection:NewButton("short loop", "...", function()
-	setclipboard("3238478423")
-toclipboard("3238478423")
+GuiSection:NewButton("mm2 gui", " gui pour mm2", function()
+    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Drifter0507/GUIS/main/MURDER%20MYSTERY%202", true))();
 end)
 
-CodeSection:NewButton("noise pour te faire saigner les oreilles", "...", function()
-	setclipboard("7713890963")
-toclipboard("7713890963")
+GuiSection:NewButton("synapse x", " synapse sur mobile", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/tWGxhNq0"))()
 end)
 
-CodeSection:NewButton("long loop", "...", function()
-	setclipboard("4760592831")
-toclipboard("4760592831")
+GuiSection:NewButton("fly gui", " voler dans tout les jeux", function()
+    loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\103\105\115\116\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\109\101\111\122\111\110\101\89\84\47\98\102\48\51\55\100\102\102\57\102\48\97\55\48\48\49\55\51\48\52\100\100\100\54\55\102\100\99\100\51\55\48\47\114\97\119\47\101\49\52\101\55\52\102\52\50\53\98\48\54\48\100\102\53\50\51\51\52\51\99\102\51\48\98\55\56\55\48\55\52\101\98\51\99\53\100\50\47\97\114\99\101\117\115\37\50\53\50\48\120\37\50\53\50\48\102\108\121\37\50\53\50\48\50\37\50\53\50\48\111\98\102\108\117\99\97\116\111\114\39\41\44\116\114\117\101\41\41\40\41\10\10")()
 end)
 
-CodeSection:NewButton("On That Time", "...", function()
-	setclipboard("8002015002")
-toclipboard("8002015002")
-end)
+-- Mapscript
+local Mapscript = Window:NewTab ("Mapscript")
+local MapscriptSection = Mapscript:NewSection("Mapscript")
 
-CodeSection:NewButton("Weird Chickmonk Noises XDXD", "...", function()
-	setclipboard("930863009")
-toclipboard("930863009")
+MapscriptSection:NewButton("fe monster", " rip la map", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/u5RRAUMS",true))()
 end)
 
-CodeSection:NewButton("phonk loop", "...", function()
-	setclipboard("7633589815")
-toclipboard("7633589815")
+MapscriptSection:NewButton("fe vehicule fling", " véhicule tornade", function()
+    loadstring(game:HttpGet("https://github.com/Oluflammes/fe-vehicule-fling/commit/9b28d1563d64943672cc2910ff7f1adf5a2491ed"))();
 end)
 
-CodeSection:NewButton(":(", "...", function()
-	setclipboard("8315630207")
-toclipboard("8315630207")
+MapscriptSection:NewButton("FLING ALL (SHAKE SERVER)", "SHAKE SERVER", function()
+     loadstring(game:HttpGet('https://github.com/DigitalityScripts/roblox-scripts/raw/main/loop%20fling%20all'))()
 end)
 
-CodeSection:NewButton("70546615702365", "...", function()
-	setclipboard("8887387572")
-toclipboard("8887387572")
-end)
+-- Tools
+local Tools = Window:NewTab ("Tools")
+local ToolsSection = Tools:NewSection("Tools")
 
-CodeSection:NewButton("Thugs Aint Lame", "...", function()
-	setclipboard("2626152169")
-toclipboard("2626152169")
+ToolsSection:NewButton("fe click fling tool", " click fling tool", function()
+    loadstring(game:HttpGet(('https://pastefy.ga/xBdd9GId/raw'),true))()
 end)
 
-CodeSection:NewButton("dbeatloop", "...", function()
-	setclipboard("4518898538")
-toclipboard("4518898538")
+ToolsSection:NewButton("fe invisible tools", " devient invisible", function()
+    loadstring(game:HttpGet("https://gist.githubusercontent.com/skid123skidlol/cd0d2dce51b3f20ad1aac941da06a1a1/raw/f58b98cce7d51e53ade94e7bb460e4f24fb7e0ff/%257BFE%257D%2520Invisible%2520Tool%2520(can%2520hold%2520tools)",true))()
 end)
 
-CodeSection:NewButton("loop", "...", function()
-	setclipboard("7175701891")
-toclipboard("7175701891")
+ToolsSection:NewButton("fe portail gun v2", " le fusil a rick", function()
+    loadstring(game:HttpGet(('https://pastefy.ga/hXHOUgDa/raw'),true))()
 end)
